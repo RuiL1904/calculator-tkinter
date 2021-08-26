@@ -6,9 +6,9 @@ Feel free to cover any error encountered using a Pull Request (Contributing).
 ### Built With
 
 * [Python](https://www.python.org/)
-* [tkinter](https://docs.python.org/3/library/tkinter.html)
-* [math](https://docs.python.org/3/library/math.html)
-* [re](https://docs.python.org/3/library/re.html)
+  * [tkinter](https://docs.python.org/3/library/tkinter.html)
+  * [math](https://docs.python.org/3/library/math.html)
+  * [re](https://docs.python.org/3/library/re.html)
 
 ## Contributing
 
