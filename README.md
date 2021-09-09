@@ -1,7 +1,7 @@
 ## About The Project
 
 This is a simple calculator that I used to learn a little bit more about tkinter.
-Feel free to cover any error encountered using a Pull Request (Contributing).
+Feel free to cover any issue encountered using a Pull Request (Contributing).
 
 ### Built With
 
@@ -9,6 +9,24 @@ Feel free to cover any error encountered using a Pull Request (Contributing).
   * [tkinter](https://docs.python.org/3/library/tkinter.html)
   * [math](https://docs.python.org/3/library/math.html)
   * [re](https://docs.python.org/3/library/re.html)
+  
+## Getting Started
+
+### Installation and Usage
+
+1. Clone the repo
+    ```sh
+      git clone https://github.com/RuiL1904/calculator-tkinter.git
+    ```
+2. Install prerequisites
+   ```sh
+      pip install -r requirements.txt
+    ```
+
+3. Run
+    ```sh
+      python main.py
+    ```
 
 ## Contributing
 
