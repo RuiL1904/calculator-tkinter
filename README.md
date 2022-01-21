@@ -20,12 +20,12 @@ Feel free to cover any issue encountered using a Pull Request (Contributing).
     ```
 2. Install prerequisites
    ```sh
-      pip install -r requirements.txt
+      python3 -m pip install -r requirements.txt
     ```
 
 3. Run
     ```sh
-      python main.py
+      python3 main.py
     ```
 
 ## Contributing
